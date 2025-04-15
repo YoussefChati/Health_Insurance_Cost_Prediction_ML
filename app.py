@@ -5,7 +5,7 @@ user_input = {
     "age": 29,
     "sex": "female",
     "bmi": 26.5,
-    "children": 2,
+    "children": 5,
     "smoker": "yes",
     "region": "southeast"
 }
