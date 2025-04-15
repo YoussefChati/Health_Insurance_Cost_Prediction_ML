@@ -66,4 +66,4 @@ if predict_btn:
         </h2>
     """, unsafe_allow_html=True)
 
-    st.info("This estimate is based on your inputs and our trained ML model.\nResults may vary from actual insurance quotes.")
+    st.info("This estimate is based on your inputs and our trained ML model.\nResults may vary from actual insurance quotes.\nThank you for using our website !")
